@@ -1,4 +1,4 @@
 # HelloWorld
 First repository
 What can I do with this?
-![headshot](sarah_pic.jpeg)
+![headshot](Keith Hockey Team 1969.png)
